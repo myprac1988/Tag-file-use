@@ -4,7 +4,7 @@ pipeline {
             AWS_ACCOUNT_ID="339712930803"
             AWS_DEFAULT_REGIOS="ap-south-1"
             IMAGE_REPO_NAME="myprac"
-            IMAGE_TAG="v10.1"
+            IMAGE_TAG="v10.2"
             REPOSITORY_URL="public.ecr.aws/q3w8l9w9/myprac"
     }
     
